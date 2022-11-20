@@ -1,5 +1,14 @@
 # @linaria/testkit
 
+## 4.2.1
+
+### Patch Changes
+
+- e2224348: Fix @linaria/shaker from removing exported renamed imports. Fixes #1114.
+- Updated dependencies [e2224348]
+  - @linaria/shaker@4.2.5
+  - @linaria/babel-preset@4.3.1
+
 ## 4.2.0
 
 ### Minor Changes

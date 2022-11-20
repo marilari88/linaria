@@ -1,5 +1,11 @@
 # Change Log
 
+## 4.2.5
+
+### Patch Changes
+
+- e2224348: Fix @linaria/shaker from removing exported renamed imports. Fixes #1114.
+
 ## 4.2.4
 
 ### Patch Changes

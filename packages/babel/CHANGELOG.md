@@ -1,5 +1,12 @@
 # Change Log
 
+## 4.3.1
+
+### Patch Changes
+
+- Updated dependencies [e2224348]
+  - @linaria/shaker@4.2.5
+
 ## 4.3.0
 
 ### Minor Changes
